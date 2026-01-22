@@ -14,7 +14,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Token (Get from @BotFather)
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TOKEN = os.getenv("8311820036:AAGL5GPhSJsWqa_jbylraUkOmX49TbW3kcc")
 
 # Sample Celebrities Database
 CELEBRITIES = [
